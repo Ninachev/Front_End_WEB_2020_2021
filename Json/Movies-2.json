@@ -1,0 +1,23 @@
+[
+ {
+ "title": "The Dark Knight",
+ "genre": "Action / Adventure ",
+ "duration": "2h 32m",
+ "director": "Christopher Nolan",
+ "year-released": "2008"
+ },
+ {
+ "title": "The Grimsby Brothers",
+ "genre": "Comedy / Action",
+ "duration": "1h 23m",
+ "director": "Louis Leterrier",
+ "year-released": "2016"
+ },
+ {
+ "title": "Pineapple Express",
+ "genre": "Comedy / Action",
+ "duration": "1h 57m",
+ "director": "David Gordon Green",
+ "year-released": "2008"
+ }
+]
