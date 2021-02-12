@@ -21,5 +21,5 @@ function validate(){
   }
 }
 function redirection(){
-  document.location.href="page1.html";
+  document.location.href="MyMovies.html";
 }
