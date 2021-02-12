@@ -1,0 +1,55 @@
+body{
+  background: #045 linear-gradient(#289, #045) no-repeat fixed;
+}
+.header{
+  text-align: center;    
+}
+ul {
+  list-style-type: none;
+  position:absolute;
+  right:50%;
+  margin-right:-257px;
+  padding: 0;
+  overflow: hidden;
+  background-color: brown;
+  border-radius:12px;
+  width:514px;
+  font-size:24px;
+}
+li {
+  float: left;
+}
+li a {
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+li a:hover {
+  background-color: #111;
+  color:white;
+}
+#movies{
+  position:absolute;
+  width:800px;
+  top:50%;
+  right:45%;
+  margin-right:-350px;
+  margin-top:-250px;
+  font-size:24px;
+  color:white;
+}
+.article{
+  position:absolute;
+  top:30%;
+  right:50%;
+  margin-right:-300px;
+  font-size:24px;
+  width:600px;
+  text-align:center;
+  color:white;
+}
+img{
+  border-radius:24px;
+}
