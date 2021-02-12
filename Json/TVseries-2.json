@@ -1,0 +1,20 @@
+[
+ {
+ "title": "Friends",
+ "genre": "Sitcom",
+ "seasons": "10",
+ "year": "1994"
+ },
+ {
+ "title": "Game of Thrones",
+ "genre": "Drama",
+ "seasons": "8",
+ "year": "2011"
+ },
+ {
+ "title": "Stranger Things",
+ "genre": "Horror ",
+ "seasons": "3",
+ "year": "2016"
+ }
+]

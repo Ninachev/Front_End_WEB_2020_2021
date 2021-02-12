@@ -1,0 +1,20 @@
+[
+ {
+ "title": "The Lion King",
+ "genre": "Family / Musical ",
+ "duration": "1h 29m",
+ "year": "1994"
+ },
+ {
+ "title": "Aladdin",
+ "genre": "Adventure / Musical",
+ "duration": "1h 31m",
+ "year": "1992"
+ },
+ {
+ "title": "Moana",
+ "genre": "Family / Adventure",
+ "duration": "1h 53m",
+ "year": "2016"
+ }
+]

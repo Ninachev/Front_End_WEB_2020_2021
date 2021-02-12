@@ -1,0 +1,20 @@
+[
+ {
+ "title": "True Detective",
+ "genre": "Mystery",
+ "seasons": "3",
+ "year": "2014"
+ },
+ {
+ "title": "The Queen's Gambit",
+ "genre": "Drama / mini-series",
+ "seasons": "1",
+ "year": "2020"
+ },
+ {
+ "title": "The Big Bang Theory",
+ "genre": "Sitcom ",
+ "seasons": "12",
+ "year": "2007"
+ }
+]
